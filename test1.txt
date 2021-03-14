@@ -1,7 +1,4 @@
 test1
 aa
-<<<<<<< HEAD
-bd
-=======
 ba
->>>>>>> 43030d1c1e5c6e24b0fc2496abe448ec69f0a726
+11
